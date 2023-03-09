@@ -1,0 +1,5 @@
+-: Mod Name: Pin Boon Mod
+    Author - AlexKage
+:-
+
+Import "PinBoonMod.lua"
